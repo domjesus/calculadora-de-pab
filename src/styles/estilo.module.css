@@ -1,0 +1,11 @@
+.btn_example {
+  background-color: gold;
+  color: red;
+  border-radius: 8px;
+}
+
+.ump,
+.outrop {
+  color: blue;
+  background-color: bisque;
+}
